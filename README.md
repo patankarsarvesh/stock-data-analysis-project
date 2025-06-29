@@ -42,15 +42,6 @@ This project analyzes historical stock performance of four major tech companies 
 
 ---
 
-## 📎 Files Included
-
-- `/data/` — Cleaned dataset (CSV/Excel)  
-- `/sql/` — SQL queries used for analysis  
-- `/dashboard/` — Power BI (.pbix) file  
-- `/presentation/` — Final PowerPoint presentation  
-
----
-
 ## 🎯 Objective
 
 To derive meaningful business insights by identifying trends, growth patterns, and performance differences among leading tech stocks—supporting smarter investment or strategy decisions.
